@@ -1,6 +1,6 @@
 # Programação - Conceitos 
 
-####  -   Feito como objetvo de registrar a parte conceitual dos tópicos que direciono meus estudos
+###  -   Feito com objetivo de estruturar e registrar a parte conceitual dos tópicos que direciono meus estudos
 
-+ [ Programação Orientada a Objetos](modulos/POO.md)
-+ [Arquitetura Rest](modulos/ArquiteturaRest.md)
++ [ Programação Orientada a Objetos](Desktop/conceitos-estudos/módulos/POO.md)
++ [Arquitetura Rest](Desktop/conceitos-estudos/módulos/ArquiteturaRest.md)
